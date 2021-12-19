@@ -1,0 +1,14 @@
+body{
+    margin-top: 0;
+    width: 250px;
+    height:auto;
+    background-color: rgb(253, 246, 234) ;    
+}
+#jokeElement{
+    background-color: #F8EDED;
+    padding:12px;       
+    font-size: 25px;
+    border:2px solid #E4BAD4;
+    border-radius: 20px;
+    justify-content: center;
+}   
